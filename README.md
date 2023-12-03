@@ -1,7 +1,6 @@
-- 👋 Hi, I’m kareem shousha
+- 👋 Hi, I’m Kareem Shousha
 - 👀 I’m interested in web development
-- 🌱 I’m currently imporving my development skills
-- 💞️ I’m looking to collaborate on ERP project
+- 🌱 I alawys improve my development skills
 - 📫 How to reach me ... kemoshousha309@gmail.com
 
 <!---
